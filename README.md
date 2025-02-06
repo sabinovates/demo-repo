@@ -70,10 +70,10 @@ ssh-add --apple-use-keychain ~/.ssh/<keyname>
 
 ```shell
 git init
-git remote add origin <giturl>
+git remote add origin "giturl"
 git remote -v
 git push -u origin master
 ```
-where [giturl] is the url to your empty git
+where "giturl" represents the url to your git repository
 
 # CODE SNIPPETS
