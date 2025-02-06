@@ -74,6 +74,6 @@ git remote add origin <giturl>
 git remote -v
 git push -u origin master
 ```
-where <giturl> is the url to your empty git
+where [giturl] is the url to your empty git
 
 # CODE SNIPPETS
