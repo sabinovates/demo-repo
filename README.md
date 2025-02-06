@@ -14,7 +14,7 @@ Learning the intricates of git and github while keeping the knowledge available 
 ```
 
 ### Git Status/Add/Commit
-ß
+
 - git status
 - git add "filename"
 - git commit -m "Message"
@@ -65,5 +65,15 @@ Add ssh to agent
 ssh-add --apple-use-keychain ~/.ssh/<keyname>
 
 ```
+
+### Adding a Repo from Loal system
+
+```shell
+git init
+git remote add origin <giturl>
+git remote -v
+git push -u origin master
+```
+where <giturl> is the url to your empty git
 
 # CODE SNIPPETS
