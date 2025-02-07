@@ -86,4 +86,15 @@ git branch -r
 git checkout -b "branchName"
 git checkout "branchName" # Switching between branch
 
+git diff <branchnName> #shows changes made
+
+```
+
+# PULL REQUEST
+
+```shell
+git merge <branchName>
+
+git push -up <branchName>
+
 ```
