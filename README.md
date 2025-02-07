@@ -106,3 +106,18 @@ git pull origin main #if you have not set the upstream or
 git pull
 
 ```
+# UNDOING FILES
+
+```shell
+git reset <fileName> # Undo commit or stash changes
+git reset HEAD 
+git reset HEAD~1
+git reset <commitID> # resets a specific commit hash
+git reset --hard <commitID> #go back and clear all things to its intial file
+
+git log #shows all commits
+
+```
+
+# GIT FORKING
+Forking is done on github.com to create a copy of an existing repo from others
