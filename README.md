@@ -98,3 +98,11 @@ git merge <branchName> #merge a branch into another branch
 git push -u origin <branchName> #push branch to github
 
 ```
+Pulling down resources from github to update local main repo
+
+```shell
+git branch -d <branchName> #To delete a branch
+git pull origin main #if you have not set the upstream or
+git pull
+
+```
