@@ -93,8 +93,8 @@ git diff <branchnName> #shows changes made
 # PULL REQUEST
 
 ```shell
-git merge <branchName>
+git merge <branchName> #merge a branch into another branch
 
-git push -up <branchName>
+git push -u origin <branchName> #push branch to github
 
 ```
