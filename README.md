@@ -76,4 +76,14 @@ git push -u origin master
 ```
 where "giturl" represents the url to your git repository
 
-# CODE SNIPPETS
+# GIT BRANCHING
+
+```shell
+
+git branch # shows the or
+git branch -r 
+
+git checkout -b "branchName"
+git checkout "branchName" # Switching between branch
+
+```
