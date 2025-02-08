@@ -121,3 +121,7 @@ git log #shows all commits
 
 # GIT FORKING
 Forking is done on github.com to create a copy of an existing repo from others
+
+# Reference
+The following materials/resources were used for studies
+- https://www.youtube.com/watch?v=RGOj5yH7evk (freecodecamp)
